@@ -32,7 +32,7 @@
 
 #include <haproxy/action.h>
 #include <haproxy/base.h>
-#include <common/cfgparse.h>
+#include <haproxy/cfgparse.h>
 #include <haproxy/check.h>
 #include <haproxy/chunk.h>
 #include <haproxy/dns.h>
