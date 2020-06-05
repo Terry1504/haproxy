@@ -15,8 +15,8 @@
 #include <string.h>
 
 #include <haproxy/base.h>
+#include <haproxy/errors.h>
 #include <haproxy/global.h>
-#include <haproxy/log.h>
 #include <haproxy/regex.h>
 #include <haproxy/tools.h>
 

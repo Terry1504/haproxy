@@ -29,8 +29,8 @@
 #include <haproxy/base.h>
 #include <haproxy/global.h>
 #include <haproxy/errors.h>
-#include <haproxy/log.h>
 #include <haproxy/pattern-t.h>
+#include <haproxy/sample-t.h>
 #include <haproxy/thread.h>
 
 struct userlist *userlist = NULL;    /* list of all existing userlists */
